@@ -26,7 +26,7 @@ SkullDoS is a multi-threaded UDP flood tool written in Python that allows networ
 
 Run the included setup batch file:
 
-```bash
+```cmd
 setup.bat
 ```
 
