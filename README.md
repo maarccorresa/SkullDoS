@@ -101,12 +101,12 @@ Este proyecto es de código abierto para fines educativos.
 ## 👤 Autor
 
 **c0rresita**
-- GitHub: [@c0rresita](https://github.com/c0rresita)
+- GitHub: [@maarccorresa](https://github.com/maarccorresa)
 
 ## 🔗 Enlaces
 
-- [Repositorio](https://github.com/c0rresita/SkullDoS)
-- [Reportar un problema](https://github.com/c0rresita/SkullDoS/issues)
+- [Repositorio](https://github.com/maarccorresa/SkullDoS)
+- [Reportar un problema](https://github.com/maarccorresa/SkullDoS/issues)
 
 ---
 
