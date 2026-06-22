@@ -31,7 +31,7 @@ SkullDoS es una herramienta de testing de red escrita en Python que permite real
 ### Linux/Mac:
 
 ```bash
-git clone https://github.com/c0rresita/SkullDoS.git
+git clone https://github.com/maarccorresa/SkullDoS.git
 cd SkullDoS
 pip install -r requirements.txt
 ```
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ### Windows:
 
 ```bash
-git clone https://github.com/c0rresita/SkullDoS.git
+git clone https://github.com/maarccorresa/SkullDoS.git
 cd SkullDoS
 setup.bat
 ```
@@ -100,7 +100,7 @@ Este proyecto es de código abierto para fines educativos.
 
 ## 👤 Autor
 
-**c0rresita**
+**maarccorresa**
 - GitHub: [@maarccorresa](https://github.com/maarccorresa)
 
 ## 🔗 Enlaces
